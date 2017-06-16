@@ -1,6 +1,6 @@
 # Raspberry-pi-motion-sersor-password-unlock
 
-Required
+Requirement.
 Basic Knowledge of raspberry pi
 1-raspberry pi3
 1-active buzzer
@@ -10,23 +10,23 @@ Basic Knowledge of raspberry pi
 1- 1KOhm resistor
 
  
-Keypad pin
------◘◘◘◘◘◘  GPIO17
------◘◘◘◘◘◘  GPIO18
------◘◘◘◘◘◘  GPIO27
------◘◘◘◘◘◘  GPIO22
------------  GPIO23
------------  GPIO24
------------  GPIO25
------------  GPIO04
+Keypad Pin
+-----◘◘◘◘◘◘  GPIO17.
+-----◘◘◘◘◘◘  GPIO18.
+-----◘◘◘◘◘◘  GPIO27.
+-----◘◘◘◘◘◘  GPIO22.
+-----------  GPIO23.
+-----------  GPIO24.
+-----------  GPIO25.
+-----------  GPIO04.
 
 
-PIR pin
-positive to +5v
-ground to gnd
-out to GPIO12
+PIR Pin
+positive to +5v.
+ground to gnd.
+out to GPIO12.
 
-Buzzer
+Buzzer.
 connect positive of buzzer with +3V.
 buzzers negative with transistors emitter.
 transistors collector to Gnd.
